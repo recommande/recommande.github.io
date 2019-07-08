@@ -1,4 +1,5 @@
 
 all:
 	octopod build
-	sudo cp -a _site/* /usr/share/nginx/html/
+	cp -a _site/* ~/recommande.github.io/
+#	sudo cp -a _site/* /usr/share/nginx/html/

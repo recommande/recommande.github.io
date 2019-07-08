@@ -9,17 +9,17 @@
 
   <channel>
     <title>Recommandé</title>
-    <link>https://recommande.duckdns.org</link>
-    <atom:link href="https://recommande.duckdns.org/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="https://recommande.duckdns.org/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://recommande.duckdns.org/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    <link>https://recommande.github.io</link>
+    <atom:link href="https://recommande.github.io/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://recommande.github.io/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://recommande.github.io/episodes.mp3.rss" rel="last" type="application/rss+xml" />
     
     
 
     
     <description>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.
 </description>
-    <lastBuildDate>Mon, 08 Jul 2019 14:02:10 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 14:07:31 +0200</lastBuildDate>
     <language>fr</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -27,7 +27,7 @@
 </itunes:summary>
     <itunes:author>Yattoz</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://recommande.duckdns.org/img/logo-itunes.jpg" />
+    <itunes:image href="https://recommande.github.io/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>Yattoz</itunes:name>
       <itunes:email>recommande@hotmail.com</itunes:email>
@@ -38,8 +38,8 @@
     <itunes:keywords>octopod, podcast, music, musique, youtube, recommandé</itunes:keywords>
     <image>
       <title>Recommandé</title>
-      <url>https://recommande.duckdns.org/img/logo-itunes.jpg</url>
-      <link>https://recommande.duckdns.org</link>
+      <url>https://recommande.github.io/img/logo-itunes.jpg</url>
+      <link>https://recommande.github.io</link>
     </image>
     
     <itunes:category text="Music" />
@@ -51,12 +51,12 @@
         
           <item>
             <title>Recommandé n°10 - Il faut être aventureux</title>
-            <link>https://recommande.duckdns.org/2019/07/05/episode10.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode10"/>
-            <comments>https://recommande.duckdns.org/2019/07/05/episode10.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2019/07/05/episode10.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode10"/>
+            <comments>https://recommande.github.io/2019/07/05/episode10.html#disqus_thread</comments>
             <pubDate>Fri, 05 Jul 2019 00:00:00 +0200</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2019/07/05/episode10.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2019/07/05/episode10.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-10--il-faut-être-aventureux">Episode 10 : Il faut être aventureux</h3>
@@ -123,11 +123,11 @@
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/10.jpg" />
+              <itunes:image href="https://recommande.github.io/img/10.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/10.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/10.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -139,12 +139,12 @@
         
           <item>
             <title>Recommandé n°9 - Avec Une Plante</title>
-            <link>https://recommande.duckdns.org/2019/06/16/episode09.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode09"/>
-            <comments>https://recommande.duckdns.org/2019/06/16/episode09.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2019/06/16/episode09.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode09"/>
+            <comments>https://recommande.github.io/2019/06/16/episode09.html#disqus_thread</comments>
             <pubDate>Sun, 16 Jun 2019 00:00:00 +0200</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2019/06/16/episode09.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2019/06/16/episode09.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-9--avec-une-plante">Episode 9 : Avec Une Plante</h3>
@@ -211,11 +211,11 @@
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/09.jpg" />
+              <itunes:image href="https://recommande.github.io/img/09.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/09.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/09.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -227,12 +227,12 @@
         
           <item>
             <title>Recommandé n°8 - Dans l'Espace</title>
-            <link>https://recommande.duckdns.org/2019/05/24/episode08.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode08"/>
-            <comments>https://recommande.duckdns.org/2019/05/24/episode08.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2019/05/24/episode08.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode08"/>
+            <comments>https://recommande.github.io/2019/05/24/episode08.html#disqus_thread</comments>
             <pubDate>Fri, 24 May 2019 00:00:00 +0200</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2019/05/24/episode08.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2019/05/24/episode08.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-8--dans-lespace">Episode 8 : Dans l’Espace</h3>
@@ -315,11 +315,11 @@
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/08.jpg" />
+              <itunes:image href="https://recommande.github.io/img/08.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/08.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/08.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -331,12 +331,12 @@
         
           <item>
             <title>Recommandé n°7 - Most Emotional Piano</title>
-            <link>https://recommande.duckdns.org/2019/04/27/episode07.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode07"/>
-            <comments>https://recommande.duckdns.org/2019/04/27/episode07.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2019/04/27/episode07.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode07"/>
+            <comments>https://recommande.github.io/2019/04/27/episode07.html#disqus_thread</comments>
             <pubDate>Sat, 27 Apr 2019 00:00:00 +0200</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2019/04/27/episode07.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2019/04/27/episode07.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-7--most-emotional-piano">Episode 7 : Most Emotional Piano</h3>
@@ -403,11 +403,11 @@
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/07.jpg" />
+              <itunes:image href="https://recommande.github.io/img/07.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/07.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/07.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -419,12 +419,12 @@
         
           <item>
             <title>Recommandé Spécial wowaka - もう一回 (mō ikkai)</title>
-            <link>https://recommande.duckdns.org/2019/04/12/episodewowaka.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episodewowaka"/>
-            <comments>https://recommande.duckdns.org/2019/04/12/episodewowaka.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2019/04/12/episodewowaka.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episodewowaka"/>
+            <comments>https://recommande.github.io/2019/04/12/episodewowaka.html#disqus_thread</comments>
             <pubDate>Fri, 12 Apr 2019 00:00:00 +0200</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2019/04/12/episodewowaka.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2019/04/12/episodewowaka.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-spécial-wowaka--もう一回-mō-ikkai">Episode Spécial wowaka : もう一回 (mō ikkai)</h3>
@@ -491,11 +491,11 @@
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/mo_ikkai.jpg" />
+              <itunes:image href="https://recommande.github.io/img/mo_ikkai.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/mo_ikkai.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/mo_ikkai.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -507,12 +507,12 @@
         
           <item>
             <title>Recommandé n°6 - Le Recommandé Musical Universe</title>
-            <link>https://recommande.duckdns.org/2019/04/05/episode06.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode06"/>
-            <comments>https://recommande.duckdns.org/2019/04/05/episode06.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2019/04/05/episode06.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode06"/>
+            <comments>https://recommande.github.io/2019/04/05/episode06.html#disqus_thread</comments>
             <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2019/04/05/episode06.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2019/04/05/episode06.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-6-le-recommandé-musical-universe">Episode 6: Le Recommandé Musical Universe</h3>
@@ -583,11 +583,11 @@
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/06.jpg" />
+              <itunes:image href="https://recommande.github.io/img/06.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/06.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/06.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -599,12 +599,12 @@
         
           <item>
             <title>Recommandé n°5 - De Sang Royal</title>
-            <link>https://recommande.duckdns.org/2019/03/15/episode05.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode05"/>
-            <comments>https://recommande.duckdns.org/2019/03/15/episode05.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2019/03/15/episode05.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode05"/>
+            <comments>https://recommande.github.io/2019/03/15/episode05.html#disqus_thread</comments>
             <pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2019/03/15/episode05.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2019/03/15/episode05.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-5-de-sang-royal">Episode 5: De Sang Royal</h3>
@@ -675,11 +675,11 @@
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/05.jpg" />
+              <itunes:image href="https://recommande.github.io/img/05.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/05.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/05.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -691,12 +691,12 @@
         
           <item>
             <title>Recommandé n°4 - POPJAPON</title>
-            <link>https://recommande.duckdns.org/2019/02/22/episode04.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode04"/>
-            <comments>https://recommande.duckdns.org/2019/02/22/episode04.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2019/02/22/episode04.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode04"/>
+            <comments>https://recommande.github.io/2019/02/22/episode04.html#disqus_thread</comments>
             <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2019/02/22/episode04.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2019/02/22/episode04.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-4-popjapon">Episode 4: POPJAPON</h3>
@@ -795,11 +795,11 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/04.jpg" />
+              <itunes:image href="https://recommande.github.io/img/04.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/04.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/04.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -811,12 +811,12 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
         
           <item>
             <title>Recommandé n°3 - Curieusement Satisfaisant</title>
-            <link>https://recommande.duckdns.org/2019/02/01/episode03.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode03"/>
-            <comments>https://recommande.duckdns.org/2019/02/01/episode03.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2019/02/01/episode03.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode03"/>
+            <comments>https://recommande.github.io/2019/02/01/episode03.html#disqus_thread</comments>
             <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2019/02/01/episode03.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2019/02/01/episode03.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-3-curieusement-satisfaisant">Episode 3: Curieusement Satisfaisant</h3>
@@ -891,11 +891,11 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/03.jpg" />
+              <itunes:image href="https://recommande.github.io/img/03.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/03.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/03.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -907,12 +907,12 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
         
           <item>
             <title>Recommandé n°2 - Tension Sensuelle</title>
-            <link>https://recommande.duckdns.org/2019/01/08/episode02.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode02"/>
-            <comments>https://recommande.duckdns.org/2019/01/08/episode02.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2019/01/08/episode02.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode02"/>
+            <comments>https://recommande.github.io/2019/01/08/episode02.html#disqus_thread</comments>
             <pubDate>Tue, 08 Jan 2019 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2019/01/08/episode02.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2019/01/08/episode02.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-2-tension-sensuelle">Episode 2: Tension Sensuelle</h3>
@@ -991,11 +991,11 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/02.jpg" />
+              <itunes:image href="https://recommande.github.io/img/02.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/02.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/02.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -1007,12 +1007,12 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
         
           <item>
             <title>Recommandé n°1 - 東方キャスト (Touhoucast)</title>
-            <link>https://recommande.duckdns.org/2018/12/15/touhoucast.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/touhoucast"/>
-            <comments>https://recommande.duckdns.org/2018/12/15/touhoucast.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2018/12/15/touhoucast.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/touhoucast"/>
+            <comments>https://recommande.github.io/2018/12/15/touhoucast.html#disqus_thread</comments>
             <pubDate>Sat, 15 Dec 2018 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2018/12/15/touhoucast.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2018/12/15/touhoucast.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-1-東方キャスト-touhoucast">Episode 1: 東方キャスト (Touhoucast)</h3>
@@ -1105,11 +1105,11 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/01.jpg" />
+              <itunes:image href="https://recommande.github.io/img/01.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/01.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/01.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -1121,12 +1121,12 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
         
           <item>
             <title>Recommandé n°0B - Le petit-fils et le grand-père</title>
-            <link>https://recommande.duckdns.org/2018/11/28/episode0B.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode0B"/>
-            <comments>https://recommande.duckdns.org/2018/11/28/episode0B.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2018/11/28/episode0B.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode0B"/>
+            <comments>https://recommande.github.io/2018/11/28/episode0B.html#disqus_thread</comments>
             <pubDate>Wed, 28 Nov 2018 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2018/11/28/episode0B.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2018/11/28/episode0B.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-0b-le-petit-fils-et-le-grand-père">Episode 0B: Le petit-fils et le grand-père</h3>
@@ -1193,11 +1193,11 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/0B-petit-fils-grand-pere.jpg" />
+              <itunes:image href="https://recommande.github.io/img/0B-petit-fils-grand-pere.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/0B-petit-fils-grand-pere.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/0B-petit-fils-grand-pere.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>
@@ -1209,12 +1209,12 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
         
           <item>
             <title>Recommandé n°0A - Anisong Catharsis vol.1</title>
-            <link>https://recommande.duckdns.org/2018/11/10/episode0A.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode0A"/>
-            <comments>https://recommande.duckdns.org/2018/11/10/episode0A.html#disqus_thread</comments>
+            <link>https://recommande.github.io/2018/11/10/episode0A.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.github.io/players/episode0A"/>
+            <comments>https://recommande.github.io/2018/11/10/episode0A.html#disqus_thread</comments>
             <pubDate>Sat, 10 Nov 2018 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://recommande.duckdns.org/2018/11/10/episode0A.html</guid>
+            <guid isPermaLink="false">https://recommande.github.io/2018/11/10/episode0A.html</guid>
             <description><![CDATA[
 
 <h3 id="episode-0a-anisong-catharsis-vol1">Episode 0A: Anisong Catharsis vol.1</h3>
@@ -1269,11 +1269,11 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             
             
             
-              <itunes:image href="https://recommande.duckdns.org/img/0A-anisong-catharsis-vol1.jpg" />
+              <itunes:image href="https://recommande.github.io/img/0A-anisong-catharsis-vol1.jpg" />
               <image>
                 <title></title>
-                <url>https://recommande.duckdns.org/img/0A-anisong-catharsis-vol1.jpg</url>
-                <link>https://recommande.duckdns.org</link>
+                <url>https://recommande.github.io/img/0A-anisong-catharsis-vol1.jpg</url>
+                <link>https://recommande.github.io</link>
               </image>
             
           </item>

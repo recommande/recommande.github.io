@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Recommandé</title>
-  <link href="https://recommande.duckdns.org/general_feed.xml" rel="self"/>
-  <link href="https://recommande.duckdns.org"/>
-  <updated>2019-07-08T14:02:10+02:00</updated>
-  <id>https://recommande.duckdns.org/</id>
+  <link href="https://recommande.github.io/general_feed.xml" rel="self"/>
+  <link href="https://recommande.github.io"/>
+  <updated>2019-07-08T14:07:31+02:00</updated>
+  <id>https://recommande.github.io/</id>
   <author>
     <name>Yattoz</name>
     <email>recommande@hotmail.com</email>
@@ -14,14 +14,14 @@
   
     <entry>
       <title>Recommandé n°10</title>
-      <link href="https://recommande.duckdns.org/2019/07/05/episode10.html"/>
+      <link href="https://recommande.github.io/2019/07/05/episode10.html"/>
       <updated>2019-07-05T00:00:00+02:00</updated>
-      <id>https://recommande.duckdns.org/2019/07/05/episode10</id>
+      <id>https://recommande.github.io/2019/07/05/episode10</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode10.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/10.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°10&quot;,&quot;subtitle&quot;:&quot;Il faut être aventureux&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/07/05/episode10.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode10.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/10.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°10&quot;,&quot;subtitle&quot;:&quot;Il faut être aventureux&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2019/07/05/episode10.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-10--il-faut-être-aventureux&quot;&gt;Episode 10 : Il faut être aventureux&lt;/h3&gt;
@@ -50,21 +50,21 @@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vpYkz5WU1Vg&quot;&gt;Enfin le week-end !!&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode10.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode10.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°9</title>
-      <link href="https://recommande.duckdns.org/2019/06/16/episode09.html"/>
+      <link href="https://recommande.github.io/2019/06/16/episode09.html"/>
       <updated>2019-06-16T00:00:00+02:00</updated>
-      <id>https://recommande.duckdns.org/2019/06/16/episode09</id>
+      <id>https://recommande.github.io/2019/06/16/episode09</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode09.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/09.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°9&quot;,&quot;subtitle&quot;:&quot;Avec Une Plante&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/06/16/episode09.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode09.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/09.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°9&quot;,&quot;subtitle&quot;:&quot;Avec Une Plante&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2019/06/16/episode09.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-9--avec-une-plante&quot;&gt;Episode 9 : Avec Une Plante&lt;/h3&gt;
@@ -93,21 +93,21 @@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=YcNcYk-qYtc&quot;&gt;Je me sens très Lune.&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode09.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode09.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°8</title>
-      <link href="https://recommande.duckdns.org/2019/05/24/episode08.html"/>
+      <link href="https://recommande.github.io/2019/05/24/episode08.html"/>
       <updated>2019-05-24T00:00:00+02:00</updated>
-      <id>https://recommande.duckdns.org/2019/05/24/episode08</id>
+      <id>https://recommande.github.io/2019/05/24/episode08</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode08.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/08.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°8&quot;,&quot;subtitle&quot;:&quot;Dans l'Espace&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/05/24/episode08.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode08.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/08.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°8&quot;,&quot;subtitle&quot;:&quot;Dans l'Espace&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2019/05/24/episode08.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-8--dans-lespace&quot;&gt;Episode 8 : Dans l’Espace&lt;/h3&gt;
@@ -144,21 +144,21 @@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=EmneLbvX4AU&quot;&gt;La machine à laver dansante&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode08.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode08.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°7</title>
-      <link href="https://recommande.duckdns.org/2019/04/27/episode07.html"/>
+      <link href="https://recommande.github.io/2019/04/27/episode07.html"/>
       <updated>2019-04-27T00:00:00+02:00</updated>
-      <id>https://recommande.duckdns.org/2019/04/27/episode07</id>
+      <id>https://recommande.github.io/2019/04/27/episode07</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode07.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/07.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°7&quot;,&quot;subtitle&quot;:&quot;Most Emotional Piano&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/04/27/episode07.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode07.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/07.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°7&quot;,&quot;subtitle&quot;:&quot;Most Emotional Piano&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2019/04/27/episode07.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-7--most-emotional-piano&quot;&gt;Episode 7 : Most Emotional Piano&lt;/h3&gt;
@@ -187,21 +187,21 @@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lTx3G6h2xyA&quot;&gt;Bouillon de (pop) culture&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode07.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode07.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé Spécial wowaka</title>
-      <link href="https://recommande.duckdns.org/2019/04/12/episodewowaka.html"/>
+      <link href="https://recommande.github.io/2019/04/12/episodewowaka.html"/>
       <updated>2019-04-12T00:00:00+02:00</updated>
-      <id>https://recommande.duckdns.org/2019/04/12/episodewowaka</id>
+      <id>https://recommande.github.io/2019/04/12/episodewowaka</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episodewowaka.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/mo_ikkai.jpg&quot;,&quot;title&quot;:&quot;Recommandé Spécial wowaka&quot;,&quot;subtitle&quot;:&quot;もう一回 (mō ikkai)&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/04/12/episodewowaka.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episodewowaka.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/mo_ikkai.jpg&quot;,&quot;title&quot;:&quot;Recommandé Spécial wowaka&quot;,&quot;subtitle&quot;:&quot;もう一回 (mō ikkai)&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2019/04/12/episodewowaka.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-spécial-wowaka--もう一回-mō-ikkai&quot;&gt;Episode Spécial wowaka : もう一回 (mō ikkai)&lt;/h3&gt;
@@ -230,21 +230,21 @@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Bsj1vW6aMvw&quot;&gt;La fameuse BGM&lt;/a&gt; (l’originale a été retirée puis reuploadée, d’où cette date de 2013. A l’époque je l’avais téléchargée avec un logiciel qui ne gérait pas les caractères asiatiques donc mon fichier s’appelait &lt;strong&gt;___ by __&lt;/strong&gt;.mp3 et vous en conviendrez, c’est délicat de retrouver la source après ça.)&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episodewowaka.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episodewowaka.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°6</title>
-      <link href="https://recommande.duckdns.org/2019/04/05/episode06.html"/>
+      <link href="https://recommande.github.io/2019/04/05/episode06.html"/>
       <updated>2019-04-05T00:00:00+02:00</updated>
-      <id>https://recommande.duckdns.org/2019/04/05/episode06</id>
+      <id>https://recommande.github.io/2019/04/05/episode06</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode06.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/06.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°6&quot;,&quot;subtitle&quot;:&quot;Le Recommandé Musical Universe&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/04/05/episode06.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode06.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/06.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°6&quot;,&quot;subtitle&quot;:&quot;Le Recommandé Musical Universe&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2019/04/05/episode06.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-6-le-recommandé-musical-universe&quot;&gt;Episode 6: Le Recommandé Musical Universe&lt;/h3&gt;
@@ -275,21 +275,21 @@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0MIK7bb69xk&quot;&gt;Le printemps est arrivé, il faut s’aérer&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode06.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode06.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°5</title>
-      <link href="https://recommande.duckdns.org/2019/03/15/episode05.html"/>
+      <link href="https://recommande.github.io/2019/03/15/episode05.html"/>
       <updated>2019-03-15T00:00:00+01:00</updated>
-      <id>https://recommande.duckdns.org/2019/03/15/episode05</id>
+      <id>https://recommande.github.io/2019/03/15/episode05</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode05.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/05.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°5&quot;,&quot;subtitle&quot;:&quot;De Sang Royal&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/03/15/episode05.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode05.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/05.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°5&quot;,&quot;subtitle&quot;:&quot;De Sang Royal&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2019/03/15/episode05.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-5-de-sang-royal&quot;&gt;Episode 5: De Sang Royal&lt;/h3&gt;
@@ -320,21 +320,21 @@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UMlLcjpzzjc&quot;&gt;Alors alors ?&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode05.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode05.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°4</title>
-      <link href="https://recommande.duckdns.org/2019/02/22/episode04.html"/>
+      <link href="https://recommande.github.io/2019/02/22/episode04.html"/>
       <updated>2019-02-22T00:00:00+01:00</updated>
-      <id>https://recommande.duckdns.org/2019/02/22/episode04</id>
+      <id>https://recommande.github.io/2019/02/22/episode04</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode04.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/04.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°4&quot;,&quot;subtitle&quot;:&quot;POPJAPON&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/02/22/episode04.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode04.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/04.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°4&quot;,&quot;subtitle&quot;:&quot;POPJAPON&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2019/02/22/episode04.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-4-popjapon&quot;&gt;Episode 4: POPJAPON&lt;/h3&gt;
@@ -379,21 +379,21 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JQveNljnisE&quot;&gt;Un exemple de recommandation hautement improbable que j’ai reçue&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode04.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode04.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°3</title>
-      <link href="https://recommande.duckdns.org/2019/02/01/episode03.html"/>
+      <link href="https://recommande.github.io/2019/02/01/episode03.html"/>
       <updated>2019-02-01T00:00:00+01:00</updated>
-      <id>https://recommande.duckdns.org/2019/02/01/episode03</id>
+      <id>https://recommande.github.io/2019/02/01/episode03</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode03.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/03.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°3&quot;,&quot;subtitle&quot;:&quot;Curieusement Satisfaisant&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/02/01/episode03.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode03.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/03.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°3&quot;,&quot;subtitle&quot;:&quot;Curieusement Satisfaisant&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2019/02/01/episode03.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-3-curieusement-satisfaisant&quot;&gt;Episode 3: Curieusement Satisfaisant&lt;/h3&gt;
@@ -426,21 +426,21 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=x0ZfwSQDLK0&quot;&gt;Moi quand je retourne en France et que je retrouve une bonne baguette&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode03.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode03.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°2</title>
-      <link href="https://recommande.duckdns.org/2019/01/08/episode02.html"/>
+      <link href="https://recommande.github.io/2019/01/08/episode02.html"/>
       <updated>2019-01-08T00:00:00+01:00</updated>
-      <id>https://recommande.duckdns.org/2019/01/08/episode02</id>
+      <id>https://recommande.github.io/2019/01/08/episode02</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode02.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/02.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°2&quot;,&quot;subtitle&quot;:&quot;Tension Sensuelle&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/01/08/episode02.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode02.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/02.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°2&quot;,&quot;subtitle&quot;:&quot;Tension Sensuelle&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2019/01/08/episode02.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-2-tension-sensuelle&quot;&gt;Episode 2: Tension Sensuelle&lt;/h3&gt;
@@ -475,21 +475,21 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=axn2tpbzBhE&quot;&gt;Une idée amusante avec MikuMikuDance&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode02.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode02.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°1</title>
-      <link href="https://recommande.duckdns.org/2018/12/15/touhoucast.html"/>
+      <link href="https://recommande.github.io/2018/12/15/touhoucast.html"/>
       <updated>2018-12-15T00:00:00+01:00</updated>
-      <id>https://recommande.duckdns.org/2018/12/15/touhoucast</id>
+      <id>https://recommande.github.io/2018/12/15/touhoucast</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode01.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/01.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°1&quot;,&quot;subtitle&quot;:&quot;東方キャスト (Touhoucast)&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2018/12/15/touhoucast.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode01.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/01.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°1&quot;,&quot;subtitle&quot;:&quot;東方キャスト (Touhoucast)&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2018/12/15/touhoucast.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-1-東方キャスト-touhoucast&quot;&gt;Episode 1: 東方キャスト (Touhoucast)&lt;/h3&gt;
@@ -531,21 +531,21 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=axn2tpbzBhE&quot;&gt;Une bonne utilisation de MikuMikuDance&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode01.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode01.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°0B</title>
-      <link href="https://recommande.duckdns.org/2018/11/28/episode0B.html"/>
+      <link href="https://recommande.github.io/2018/11/28/episode0B.html"/>
       <updated>2018-11-28T00:00:00+01:00</updated>
-      <id>https://recommande.duckdns.org/2018/11/28/episode0B</id>
+      <id>https://recommande.github.io/2018/11/28/episode0B</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0B.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/0B-petit-fils-grand-pere.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°0B&quot;,&quot;subtitle&quot;:&quot;Le petit-fils et le grand-père&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2018/11/28/episode0B.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0B.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/0B-petit-fils-grand-pere.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°0B&quot;,&quot;subtitle&quot;:&quot;Le petit-fils et le grand-père&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2018/11/28/episode0B.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-0b-le-petit-fils-et-le-grand-père&quot;&gt;Episode 0B: Le petit-fils et le grand-père&lt;/h3&gt;
@@ -574,21 +574,21 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
 &lt;/ul&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode0B.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode0B.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Recommandé n°0A</title>
-      <link href="https://recommande.duckdns.org/2018/11/10/episode0A.html"/>
+      <link href="https://recommande.github.io/2018/11/10/episode0A.html"/>
       <updated>2018-11-10T00:00:00+01:00</updated>
-      <id>https://recommande.duckdns.org/2018/11/10/episode0A</id>
+      <id>https://recommande.github.io/2018/11/10/episode0A</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0A.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/0A-anisong-catharsis-vol1.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°0A&quot;,&quot;subtitle&quot;:&quot;Anisong Catharsis vol.1&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2018/11/10/episode0A.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0A.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.github.io/img/0A-anisong-catharsis-vol1.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°0A&quot;,&quot;subtitle&quot;:&quot;Anisong Catharsis vol.1&quot;,&quot;url&quot;:&quot;https://recommande.github.io/2018/11/10/episode0A.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.github.io/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h3 id=&quot;episode-0a-anisong-catharsis-vol1&quot;&gt;Episode 0A: Anisong Catharsis vol.1&lt;/h3&gt;
@@ -611,7 +611,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
 &lt;/ul&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode0A.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.github.io/episodes/episode0A.mp3"/>
       
       
     </entry>
